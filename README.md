@@ -13,6 +13,9 @@ Find what's eating your disk in seconds — no install, no Python, no clutter.
 [![Size](https://img.shields.io/badge/Size-~10%20MB-blue?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
+### 
+**[![Downloads](https://img.shields.io/github/downloads/jaberDevHub/DiskHawkPro/latest)](https://github.com/jaberDevHub/DiskHawkPro/releases/latest)**
+
 </div>
 
 ---
